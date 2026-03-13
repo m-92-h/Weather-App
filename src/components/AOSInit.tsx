@@ -11,7 +11,6 @@ export default function AOSInit() {
             once: true,
             offset: 100,
             easing: "ease-in-out",
-            disable: "mobile",
             mirror: false,
         });
 
