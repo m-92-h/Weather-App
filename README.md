@@ -22,11 +22,11 @@ Next.js 16 · TypeScript · Tailwind CSS v4 · Headless UI · AOS
 
 ## APIs
 
-| API | Cache |
-|-----|-------|
-| Open-Meteo Forecast | 30 min |
-| Open-Meteo Geocoding | 24 hrs |
-| Open-Meteo Suggestions | 1 hr |
+| API                    | Cache  |
+| ---------------------- | ------ |
+| Open-Meteo Forecast    | 30 min |
+| Open-Meteo Geocoding   | 24 hrs |
+| Open-Meteo Suggestions | 1 hr   |
 
 ## Getting Started
 
@@ -37,4 +37,4 @@ npm run dev
 
 ## Deployment
 
-Deployed on **Vercel** — [Live Demo](https://your-weather-app.vercel.app)
+Deployed on **Vercel** — [Live Demo](https://weather-now-wn.vercel.app)

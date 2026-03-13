@@ -20,11 +20,11 @@ const bricolage = Bricolage_Grotesque({
 export const metadata: Metadata = {
     title: "Weather Now",
     description: "Get real-time weather forecasts for any city worldwide",
-    metadataBase: new URL("https://your-weather-app.vercel.app"),
+    metadataBase: new URL("https://weather-now-wn.vercel.app/"),
     openGraph: {
         title: "Weather Now",
         description: "Get real-time weather forecasts for any city worldwide",
-        url: "https://your-weather-app.vercel.app",
+        url: "https://weather-now-wn.vercel.app/",
         siteName: "Weather Now",
         locale: "en_US",
         type: "website",

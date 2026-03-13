@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://your-weather-app.vercel.app/sitemap.xml",
+    sitemap: "https://weather-now-wn.vercel.app/sitemap.xml",
   }
 }
