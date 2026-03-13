@@ -2,7 +2,7 @@
 
 A real-time weather forecast app — search any city and get current conditions, hourly & 7-day forecasts.
 
-![Preview](/public/images/preview.jpg)
+![Preview](/public/preview.jpg)
 
 ---
 
